@@ -1,0 +1,2 @@
+# JAvascipt
+my own pratical 
